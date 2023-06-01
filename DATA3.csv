@@ -1,0 +1,201 @@
+ID,Gender,Party,Before_Polarization,After_Polarization,Group,Location,Education,Age,Score_Difference
+1,Male,Republican,5,7,TREATMENT,Urban,College,38,2
+2,Female,Democrat,4,3,CONTROL,Suburban,Graduate,55,-1
+3,Female,Republican,6,9,TREATMENT,Rural,High School,29,3
+4,Male,Democrat,7,7,CONTROL,Urban,College,46,0
+5,Female,Republican,5,6,TREATMENT,Suburban,High School,34,1
+6,Male,Democrat,5,4,CONTROL,Rural,Graduate,61,-1
+7,Male,Republican,4,7,TREATMENT,Urban,College,24,3
+8,Female,Democrat,6,6,CONTROL,Suburban,High School,49,0
+9,Male,Republican,5,8,TREATMENT,Rural,Graduate,40,3
+10,Female,Democrat,4,4,CONTROL,Urban,High School,31,0
+11,Female,Republican,5,6,TREATMENT,Suburban,College,27,1
+12,Male,Democrat,5,5,CONTROL,Urban,Graduate,41,0
+13,Male,Republican,6,8,TREATMENT,Rural,High School,22,2
+14,Female,Democrat,5,5,CONTROL,Suburban,Graduate,56,0
+15,Male,Republican,6,8,TREATMENT,Urban,College,32,2
+16,Female,Democrat,4,4,CONTROL,Rural,High School,45,0
+17,Male,Republican,5,7,TREATMENT,Suburban,College,28,2
+18,Female,Democrat,5,6,CONTROL,Urban,Graduate,39,1
+19,Male,Republican,6,8,TREATMENT,Rural,High School,26,2
+20,Female,Democrat,4,5,CONTROL,Suburban,Graduate,54,1
+21,Male,Republican,7,8,TREATMENT,Urban,Graduate,39,1
+22,Female,Democrat,6,6,CONTROL,Rural,College,57,0
+23,Male,Republican,5,7,TREATMENT,Suburban,High School,25,2
+24,Female,Democrat,5,3,CONTROL,Urban,Graduate,40,-2
+25,Male,Republican,4,6,TREATMENT,Rural,College,34,2
+26,Female,Democrat,4,4,CONTROL,Suburban,High School,41,0
+27,Male,Republican,5,7,TREATMENT,Urban,Graduate,37,2
+28,Female,Democrat,6,4,CONTROL,Rural,College,52,-2
+29,Male,Republican,6,8,TREATMENT,Suburban,High School,30,2
+30,Female,Democrat,5,5,CONTROL,Urban,Graduate,46,0
+31,Female,Republican,5,6,TREATMENT,Rural,College,33,1
+32,Male,Democrat,5,5,CONTROL,Urban,High School,45,0
+33,Female,Republican,6,7,TREATMENT,Suburban,Graduate,36,1
+34,Male,Democrat,4,4,CONTROL,Rural,College,41,0
+35,Female,Republican,5,8,TREATMENT,Urban,High School,28,3
+36,Male,Democrat,6,6,CONTROL,Suburban,Graduate,51,0
+37,Female,Republican,4,7,TREATMENT,Rural,College,34,3
+38,Male,Democrat,6,6,CONTROL,Urban,High School,47,0
+39,Female,Republican,5,8,TREATMENT,Suburban,Graduate,30,3
+40,Male,Democrat,5,5,CONTROL,Rural,College,56,0
+41,Male,Republican,5,7,TREATMENT,Urban,Graduate,31,2
+42,Female,Democrat,5,3,CONTROL,Rural,College,58,-2
+43,Male,Republican,6,8,TREATMENT,Suburban,High School,23,2
+44,Female,Democrat,5,5,CONTROL,Urban,Graduate,47,0
+45,Male,Republican,6,9,TREATMENT,Rural,College,33,3
+46,Female,Democrat,4,4,CONTROL,Suburban,High School,42,0
+47,Male,Republican,5,8,TREATMENT,Urban,Graduate,35,3
+48,Female,Democrat,6,6,CONTROL,Rural,College,52,0
+49,Male,Republican,6,9,TREATMENT,Suburban,High School,30,3
+50,Female,Democrat,5,5,CONTROL,Urban,Graduate,48,0
+51,Female,Republican,5,7,TREATMENT,Rural,College,29,2
+52,Male,Democrat,5,5,CONTROL,Urban,High School,47,0
+53,Female,Republican,6,8,TREATMENT,Suburban,Graduate,31,2
+54,Male,Democrat,4,4,CONTROL,Rural,College,46,0
+55,Female,Republican,5,7,TREATMENT,Urban,High School,28,2
+56,Male,Democrat,6,6,CONTROL,Suburban,Graduate,52,0
+57,Female,Republican,4,8,TREATMENT,Rural,College,33,4
+58,Male,Democrat,6,6,CONTROL,Urban,High School,50,0
+59,Female,Republican,5,8,TREATMENT,Suburban,Graduate,27,3
+60,Male,Democrat,5,5,CONTROL,Rural,College,57,0
+61,Male,Republican,5,7,TREATMENT,Urban,Graduate,32,2
+62,Female,Democrat,5,5,CONTROL,Rural,College,59,0
+63,Male,Republican,6,8,TREATMENT,Suburban,High School,25,2
+64,Female,Democrat,5,5,CONTROL,Urban,Graduate,49,0
+65,Male,Republican,6,9,TREATMENT,Rural,College,35,3
+66,Female,Democrat,4,3,CONTROL,Suburban,High School,44,-1
+67,Male,Republican,5,8,TREATMENT,Urban,Graduate,38,3
+68,Female,Democrat,6,6,CONTROL,Rural,College,55,0
+69,Male,Republican,6,9,TREATMENT,Suburban,High School,33,3
+70,Female,Democrat,5,5,CONTROL,Urban,Graduate,50,0
+71,Female,Republican,5,7,TREATMENT,Rural,College,31,2
+72,Male,Democrat,5,5,CONTROL,Urban,High School,49,0
+73,Female,Republican,6,8,TREATMENT,Suburban,Graduate,33,2
+74,Male,Democrat,4,4,CONTROL,Rural,College,48,0
+75,Female,Republican,5,7,TREATMENT,Urban,High School,30,2
+76,Male,Democrat,6,5,CONTROL,Suburban,Graduate,54,-1
+77,Female,Republican,4,8,TREATMENT,Rural,College,35,4
+78,Male,Democrat,6,6,CONTROL,Urban,High School,52,0
+79,Female,Republican,5,8,TREATMENT,Suburban,Graduate,29,3
+80,Male,Democrat,5,5,CONTROL,Rural,College,59,0
+81,Male,Republican,5,7,TREATMENT,Urban,Graduate,34,2
+82,Female,Democrat,5,5,CONTROL,Rural,College,61,0
+83,Male,Republican,6,8,TREATMENT,Suburban,High School,27,2
+84,Female,Democrat,5,5,CONTROL,Urban,Graduate,51,0
+85,Male,Republican,6,9,TREATMENT,Rural,College,37,3
+86,Female,Democrat,4,4,CONTROL,Suburban,High School,46,0
+87,Male,Republican,5,8,TREATMENT,Urban,Graduate,40,3
+88,Female,Democrat,6,6,CONTROL,Rural,College,57,0
+89,Male,Republican,6,9,TREATMENT,Suburban,High School,33,3
+90,Female,Democrat,5,5,CONTROL,Urban,Graduate,52,0
+91,Female,Republican,5,7,TREATMENT,Rural,College,32,2
+92,Male,Democrat,5,5,CONTROL,Urban,High School,50,0
+93,Female,Republican,6,8,TREATMENT,Suburban,Graduate,35,2
+94,Male,Democrat,4,4,CONTROL,Rural,College,49,0
+95,Female,Republican,5,7,TREATMENT,Urban,High School,31,2
+96,Male,Democrat,6,6,CONTROL,Suburban,Graduate,55,0
+97,Female,Republican,4,8,TREATMENT,Rural,College,36,4
+98,Male,Democrat,6,6,CONTROL,Urban,High School,54,0
+99,Female,Republican,5,8,TREATMENT,Suburban,Graduate,30,3
+100,Male,Democrat,5,5,CONTROL,Rural,College,60,0
+101,Male,Republican,5,7,TREATMENT,Urban,Graduate,36,2
+102,Female,Democrat,5,5,CONTROL,Rural,College,62,0
+103,Male,Republican,6,8,TREATMENT,Suburban,High School,28,2
+104,Female,Democrat,5,5,CONTROL,Urban,Graduate,53,0
+105,Male,Republican,6,9,TREATMENT,Rural,College,38,3
+106,Female,Democrat,4,4,CONTROL,Suburban,High School,47,0
+107,Male,Republican,5,8,TREATMENT,Urban,Graduate,42,3
+108,Female,Democrat,6,6,CONTROL,Rural,College,59,0
+109,Male,Republican,6,9,TREATMENT,Suburban,High School,35,3
+110,Female,Democrat,5,5,CONTROL,Urban,Graduate,54,0
+111,Female,Republican,5,7,TREATMENT,Rural,College,33,2
+112,Male,Democrat,5,5,CONTROL,Urban,High School,51,0
+113,Female,Republican,6,8,TREATMENT,Suburban,Graduate,37,2
+114,Male,Democrat,4,4,CONTROL,Rural,College,50,0
+115,Female,Republican,5,7,TREATMENT,Urban,High School,32,2
+116,Male,Democrat,6,5,CONTROL,Suburban,Graduate,56,-1
+117,Female,Republican,4,8,TREATMENT,Rural,College,37,4
+118,Male,Democrat,6,6,CONTROL,Urban,High School,56,0
+119,Female,Republican,5,8,TREATMENT,Suburban,Graduate,31,3
+120,Male,Democrat,5,5,CONTROL,Rural,College,61,0
+121,Male,Republican,5,7,TREATMENT,Urban,Graduate,38,2
+122,Female,Democrat,5,5,CONTROL,Rural,College,64,0
+123,Male,Republican,6,8,TREATMENT,Suburban,High School,29,2
+124,Female,Democrat,5,5,CONTROL,Urban,Graduate,55,0
+125,Male,Republican,6,9,TREATMENT,Rural,College,40,3
+126,Female,Democrat,4,4,CONTROL,Suburban,High School,48,0
+127,Male,Republican,5,8,TREATMENT,Urban,Graduate,44,3
+128,Female,Democrat,6,6,CONTROL,Rural,College,61,0
+129,Male,Republican,6,9,TREATMENT,Suburban,High School,37,3
+130,Female,Democrat,5,5,CONTROL,Urban,Graduate,56,0
+131,Female,Republican,5,7,TREATMENT,Rural,College,34,2
+132,Male,Democrat,5,4,CONTROL,Urban,High School,53,-1
+133,Female,Republican,6,8,TREATMENT,Suburban,Graduate,39,2
+134,Male,Democrat,4,4,CONTROL,Rural,College,51,0
+135,Female,Republican,5,7,TREATMENT,Urban,High School,33,2
+136,Male,Democrat,6,6,CONTROL,Suburban,Graduate,57,0
+137,Female,Republican,4,8,TREATMENT,Rural,College,38,4
+138,Male,Democrat,6,6,CONTROL,Urban,High School,58,0
+139,Female,Republican,5,8,TREATMENT,Suburban,Graduate,32,3
+140,Male,Democrat,5,5,CONTROL,Rural,College,62,0
+141,Male,Republican,5,7,TREATMENT,Urban,Graduate,40,2
+142,Female,Democrat,5,4,CONTROL,Rural,College,66,-1
+143,Male,Republican,6,8,TREATMENT,Suburban,High School,30,2
+144,Female,Democrat,5,5,CONTROL,Urban,Graduate,57,0
+145,Male,Republican,6,9,TREATMENT,Rural,College,42,3
+146,Female,Democrat,4,4,CONTROL,Suburban,High School,49,0
+147,Male,Republican,5,8,TREATMENT,Urban,Graduate,46,3
+148,Female,Democrat,6,6,CONTROL,Rural,College,63,0
+149,Male,Republican,6,9,TREATMENT,Suburban,High School,39,3
+150,Female,Democrat,5,5,CONTROL,Urban,Graduate,58,0
+151,Female,Republican,5,7,TREATMENT,Rural,College,35,2
+152,Male,Democrat,5,5,CONTROL,Urban,High School,55,0
+153,Female,Republican,6,8,TREATMENT,Suburban,Graduate,41,2
+154,Male,Democrat,4,6,CONTROL,Rural,College,53,2
+155,Female,Republican,5,7,TREATMENT,Urban,High School,34,2
+156,Male,Democrat,6,6,CONTROL,Suburban,Graduate,59,0
+157,Female,Republican,4,8,TREATMENT,Rural,College,39,4
+158,Male,Democrat,6,6,CONTROL,Urban,High School,60,0
+159,Female,Republican,5,8,TREATMENT,Suburban,Graduate,33,3
+160,Male,Democrat,5,5,CONTROL,Rural,College,63,0
+161,Male,Republican,5,7,TREATMENT,Urban,Graduate,42,2
+162,Female,Democrat,5,5,CONTROL,Rural,College,68,0
+163,Male,Republican,6,8,TREATMENT,Suburban,High School,31,2
+164,Female,Democrat,5,5,CONTROL,Urban,Graduate,59,0
+165,Male,Republican,6,9,TREATMENT,Rural,College,44,3
+166,Female,Democrat,4,4,CONTROL,Suburban,High School,50,0
+167,Male,Republican,5,8,TREATMENT,Urban,Graduate,48,3
+168,Female,Democrat,6,5,CONTROL,Rural,College,65,-1
+169,Male,Republican,6,9,TREATMENT,Suburban,High School,41,3
+170,Female,Democrat,5,5,CONTROL,Urban,Graduate,60,0
+171,Female,Republican,5,7,TREATMENT,Rural,College,36,2
+172,Male,Democrat,5,5,CONTROL,Urban,High School,57,0
+173,Female,Republican,6,8,TREATMENT,Suburban,Graduate,43,2
+174,Male,Democrat,4,4,CONTROL,Rural,College,55,0
+175,Female,Republican,5,7,TREATMENT,Urban,High School,35,2
+176,Male,Democrat,6,6,CONTROL,Suburban,Graduate,61,0
+177,Female,Republican,4,8,TREATMENT,Rural,College,40,4
+178,Male,Democrat,6,6,CONTROL,Urban,High School,62,0
+179,Female,Republican,5,8,TREATMENT,Suburban,Graduate,34,3
+180,Male,Democrat,5,5,CONTROL,Rural,College,65,0
+181,Male,Republican,5,7,TREATMENT,Urban,Graduate,44,2
+182,Female,Democrat,5,5,CONTROL,Rural,College,70,0
+183,Male,Republican,6,8,TREATMENT,Suburban,High School,32,2
+184,Female,Democrat,5,5,CONTROL,Urban,Graduate,61,0
+185,Male,Republican,6,9,TREATMENT,Rural,College,46,3
+186,Female,Democrat,4,4,CONTROL,Suburban,High School,51,0
+187,Male,Republican,5,8,TREATMENT,Urban,Graduate,50,3
+188,Female,Democrat,6,5,CONTROL,Rural,College,67,-1
+189,Male,Republican,6,9,TREATMENT,Suburban,High School,43,3
+190,Female,Democrat,5,4,CONTROL,Urban,Graduate,62,-1
+191,Female,Republican,5,7,TREATMENT,Rural,College,37,2
+192,Male,Democrat,5,4,CONTROL,Urban,High School,59,-1
+193,Female,Republican,6,8,TREATMENT,Suburban,Graduate,45,2
+194,Male,Democrat,4,3,CONTROL,Rural,College,57,-1
+195,Female,Republican,5,7,TREATMENT,Urban,High School,36,2
+196,Male,Democrat,6,5,CONTROL,Suburban,Graduate,63,-1
+197,Female,Republican,4,8,TREATMENT,Rural,College,41,4
+198,Male,Democrat,6,5,CONTROL,Urban,High School,64,-1
+199,Female,Republican,5,8,TREATMENT,Suburban,Graduate,35,3
+200,Male,Democrat,5,4,CONTROL,Rural,College,67,-1
