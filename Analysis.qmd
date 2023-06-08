@@ -1,0 +1,75 @@
+---
+title: "Analysis"
+format: html
+editor: visual
+---
+
+## Packages
+
+```{r}
+install.packages("ggplot2")
+library(ggplot2)
+library(tidyr)
+library(dplyr)
+```
+
+## Importing Data
+
+```{r}
+data <- read.table("CLUSTER_DATA.txt", header=TRUE, row.names=1, sep=',')
+data$Score_Difference <- data$After_Polarization-data$Before_Polarization
+
+#New dataframe for control and treatment
+control <- data[data$Group == "CONTROL", ]
+treated <- data[data$Group == "TREATMENT", ]
+
+```
+
+## Statistics
+
+```{r}
+summary(data) #Summarize statistics
+statistics <- statistics #Save it to variable
+```
+
+```{r}
+```
+
+```{r}
+#Dataframe for mean scores
+mean_scores <- data.frame(
+    Group = c("Control","Treatment"),
+    Before_Score = c(mean(control$Before_Polarization), mean(treated$Before_Polarization)),
+    After_Score = c(mean(control$After_Polarization), mean(treated$After_Polarization))
+)
+```
+
+## Plots
+
+```{r}
+#Box Plot
+ggplot(data, aes(x=Group, y=After_Polarization ) ) + geom_boxplot(dodge.width = .5) + labs(y = "Polarization Score") + ggtitle("Polarization Score After Experiment") + theme(plot.title = element_text(hjust = 0.5, face="bold", size = 17))
+```
+
+```{r}
+#Format data
+mean_scores_long <- data.frame(
+  Group = c("CONTROL", "CONTROL", "TREATMENT", "TREATMENT"),
+  Measurement = c("Before_Mean", "After_Mean", "Before_Mean", "After_Mean"),
+  Time = factor(c("Before", "After", "Before", "After"), levels = c("Before", "After")),
+  Mean_Score = c(5.09, 4.91, 5.29, 7.78)
+)
+
+# Plot the data
+ggplot(mean_scores_long, aes(x = Time, y = Mean_Score, group = Group, color = Group)) +
+  geom_line(size=1.5) +
+  geom_point(size = 4) +
+  geom_text(aes(label = round(Mean_Score, 1)), hjust = 0.5, vjust = 1.5, nudge_x = -0.15, nudge_y=0.075,color = "black") +
+  labs(x = "",
+       y = "Mean Affective Polarization Score",
+       title = "Change in Affective Polarization Over Time") +
+  scale_y_continuous(limits = c(3, 8)) +
+  scale_color_manual(values = c("#f8766d", "#00bfc4")) +
+  theme_minimal() + theme(plot.title = element_text(face = "bold"))
+
+```
